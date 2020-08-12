@@ -1,0 +1,36 @@
+
+
+<div id="logo">
+  <div id="logo-dart">
+      <a class="logolink" href="https://www.dartmouth.edu" title="Dartmouth College" target="_blank">
+          <img src="{{ site.url }}/assets/images/dartmouth_wordmark.png" alt="Dartmouth wordmark" title="Dartmouth College">
+      </a>
+  </div>
+  <div id="logo-math">
+      <a class="logolink" href="https://math.dartmouth.edu" title="Department of Mathematics" target="_blank">
+          <img src="{{ site.url }}/assets/images/math_logo.png" alt="Mathematics Department logo" title="Department of Mathematics">
+      </a>
+  </div>
+</div>
+
+<header id="header">
+  <h2> Sea Ice MURI </h2>
+  <h3> Integrated Foundations of Sensing, Modeling, and Data Assimilation </h3>
+</header>
+
+<nav id="navigation">
+  <!-- [THE HAMBURGER for collapsed navigation on small screens] -->
+  <label for="hamburger">&equiv;</label>
+  <input type="checkbox" id="hamburger"/>
+  <ul>
+    {% for item in site.data.navbar %}
+      <!-- href require "" while page.url cannot have "" -->
+        <li><a href="{{ item.link | prepend: site.url}}"
+        {% if page.url =={{item.link}} %} style="color: white;" 
+        {% else %} style="color: lightgray"
+        {% endif %}> 
+      {{ item.name }}
+      </a></li>
+    {% endfor %}
+  </ul>
+</nav>

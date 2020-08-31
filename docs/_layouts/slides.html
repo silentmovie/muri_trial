@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  {% include header.html %}
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/flexslider.css">
+</head>
+
+
+<div class="container">
+<div class="row justify-content-md-center">
+  <div class="col-md-12">
+    <body>
+      {% include navbar.html %}
+      {% include flexslider-posts.html %}
+      {{ content}}
+      {% include footer.html %}
+      {% include flexslider-scripts.html %}
+    </body>
+  </div>
+</div>
+</div>
+
+
+</html>

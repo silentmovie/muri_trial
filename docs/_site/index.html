@@ -40,13 +40,13 @@ MathJax.Hub.Config({
 </script>
 
 
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/flexslider.css">
 </head>
 
 
 <div class="container">
 <div class="row justify-content-md-center">
-  <div class="col col-sm-1"></div>
-  <div class="col-md-10">
+  <div class="col-md-12">
     <body>
       
 
@@ -109,8 +109,46 @@ MathJax.Hub.Config({
       Data
       </a></li>
     
+      <!-- href require "" while page.url cannot have "" -->
+        <li><a href="http://localhost:4000/Blogs.html"
+         style="color: lightgray"
+        > 
+      Blogs
+      </a></li>
+    
   </ul>
 </nav>
+      
+<div>
+  	<div class="home-title">
+    	<h3>News</h3>
+  	</div>
+	<div class="flexslider">
+		<ul class="slides">
+	
+	  		
+	  		<li>
+	  			<a href="http://localhost:4000/2020/08/31/lead.html" style="color:#000000;">
+		    		<img src="/assets/images/lead.jpg" alt="/assets/images/lead.jpg" height="150"/>
+		    		<h3><p class="flex-caption">nice photo</p></h3>
+		    		</a>
+		    	
+	 		</li>
+	 	    -->
+	  		
+	  		<li>
+	  			<a href="http://localhost:4000/2020/08/31/Sea-Ice-Dynamics-via-regularized-optimal-transport.html" style="color:#000000;">
+		    		<img src="/assets/images/parno-GRL2019.jpg" alt="/assets/images/parno-GRL2019.jpg" height="150"/>
+		    		<h3><p class="flex-caption">Optimal transport</p></h3>
+		    		</a>
+		    	
+	 		</li>
+	 	    -->
+	  		
+		</ul>
+	</div>
+	<p style="text-align: center"><a href="http://localhost:4000/Blogs">See All Blogs</a></p>
+</div>
       <p><strong>Welcome</strong> to the web site of our multi-disciplinary research program on Integrated Foundations of Sensing, Modeling, and Data Assimilation (short: “Sea Ice MURI”).</p>
 
 <p>In this MURI project, established in 2020, we seek to develop a computational toolkit that enhances the information we can extract from currently existing environmental data and physical knowledge to improve environmental variables prediction.</p>
@@ -122,9 +160,16 @@ MathJax.Hub.Config({
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+      <!-- Flexslider Scripts
+=================================================-->
+	<!-- Google CDN Hosted jQuery  -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+	<!-- Flexslider Library  -->
+	<script src="/assets/js/flexslider/jquery.flexslider-min.js"></script>
+	<!-- Initialisation Code  -->
+	<script src="/assets/js/app.js"></script>
     </body>
   </div>
-  <div class="col col-sm-1"> </div>
 </div>
 </div>
 

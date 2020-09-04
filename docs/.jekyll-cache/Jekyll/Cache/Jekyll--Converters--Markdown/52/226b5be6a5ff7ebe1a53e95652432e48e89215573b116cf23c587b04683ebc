@@ -1,0 +1,150 @@
+I"–<div class="container">
+
+      
+          <hr />
+          <h2> Principal Investigators </h2>
+          <div class="row">
+
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="https://math.dartmouth.edu/~annegelb/" style="color:#000000;">Anne Gelb</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="https://math.dartmouth.edu/~annegelb/"><img src="http://localhost:4000/assets/images/gelb.jpg" alt="Anne Gelb" height="150" /></a>
+                    <br />
+                    John G. Kemeny Parents Professor <br />Department of Mathematics <br />Dartmouth College
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="http://cochran.faculty.asu.edu/" style="color:#000000;">Doug Cochran</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="http://cochran.faculty.asu.edu/"><img src="http://localhost:4000/assets/images/cochran.jpeg" alt="Doug Cochran" height="150" /></a>
+                    <br />
+                    Research Professor <br />School of Mathematical and Statistical Sciences <br />Arizona State University
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="https://math.dartmouth.edu/~ylee/" style="color:#000000;">Yoonsang Lee</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="https://math.dartmouth.edu/~ylee/"><img src="http://localhost:4000/assets/images/lee.jpg" alt="Yoonsang Lee" height="150" /></a>
+                    <br />
+                    Assistant Professor <br />Department of Mathematics <br />Dartmouth College
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="https://aeroastro.mit.edu/youssef-marzouk" style="color:#000000;">Youssef Marzouk</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="https://aeroastro.mit.edu/youssef-marzouk"><img src="http://localhost:4000/assets/images/marzouk.jpg" alt="Youssef Marzouk" height="150" /></a>
+                    <br />
+                    Associate Professor <br /> Department of Aeronautics and Astronautics <br /> MIT
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="https://mparno.mit.edu/" style="color:#000000;">Matthew Parno</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="https://mparno.mit.edu/"><img src="http://localhost:4000/assets/images/parno.jpg" alt="Matthew Parno" height="150" /></a>
+                    <br />
+                    Adjunct Professor <br />Department of Mathematics <br />Dartmouth College <br /> Research Scientist <br />Cold Regions Research and Engineering Laboratory
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="https://engineering.dartmouth.edu/people/faculty/christopher-polashenski" style="color:#000000;">Christopher Polashenski</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href="https://engineering.dartmouth.edu/people/faculty/christopher-polashenski"><img src="http://localhost:4000/assets/images/polashenski.jpg" alt="Christopher Polashenski" height="150" /></a>
+                    <br />
+                    Adjunct Professor <br />Thayer School of Engineering <br />Dartmouth College <br /> Research Geophysicist <br />Cold Regions Research and Engineering Laboratory
+                  </div>
+                </div>
+              </div>
+            
+          </div>
+
+      
+          <hr />
+          <h2> Postdocs </h2>
+          <div class="row">
+
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="" style="color:#000000;">Jan Glaubitz</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href=""><img src="http://localhost:4000/assets/images/" alt="Jan Glaubitz" height="150" /></a>
+                    <br />
+                    
+                  </div>
+                </div>
+              </div>
+            
+              <div class="col-lg-4 mb-4 mt-4">
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <h3> <a href="" style="color:#000000;">Bohan Zhou</a> </h3>
+                  </div>
+                  <div class="card-body">
+                    <a href=""><img src="http://localhost:4000/assets/images/" alt="Bohan Zhou" height="150" /></a>
+                    <br />
+                    
+                  </div>
+                </div>
+              </div>
+            
+          </div>
+
+      
+          <hr />
+          <h2> Graduate Students </h2>
+          <div class="row">
+
+            
+          </div>
+
+      
+          <hr />
+          <h2> Undergraduate Students </h2>
+          <div class="row">
+
+            
+          </div>
+
+      
+
+</div>
+:ET
